@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Personal Blog"
+theme = "internet-weblog"
+
+[author]
+   Handle = "SummittDweller"
+   FirstName = "Mark"
+   LastName = "McFate"
+   AboutPage = "<The relative or complete link to your about page>"
+   Location = "Grinnell, Iowa"
+   FlickrID = "<Your Flickr ID>"
