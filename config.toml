@@ -7,6 +7,24 @@ theme = "internet-weblog"
    Handle = "SummittDweller"
    FirstName = "Mark"
    LastName = "McFate"
-   AboutPage = "<The relative or complete link to your about page>"
+   AboutPage = "/about"
    Location = "Grinnell, Iowa"
    FlickrID = "<Your Flickr ID>"
+
+
+SectionPagesMenu = "main"
+
+[params]
+   RSSSections = [ "Posts", "Microposts", "Photos" ]
+
+[[menu.main]]
+  name = "Posts"
+  weight = 1
+  identifier = "posts"
+  url = "/posts/"
+
+[[menu.main]]
+  name = "Photos"
+  weight = 2
+  identifier = "photos"
+  url = "/photos/"
