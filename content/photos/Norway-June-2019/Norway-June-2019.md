@@ -3,6 +3,7 @@ date = "2019-06-18T20:00:00-00:00"
 title = "Norway - June 2019"
 location = "Norway (mostly)"
 camera = "iPhone 8"
+weight = 20190601
 +++
 
 <figure>

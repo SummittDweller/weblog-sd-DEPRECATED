@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Personal Blog"
 theme = "internet-weblog"
+enableEmoji = true
 
 [author]
    Handle = "SummittDweller"
