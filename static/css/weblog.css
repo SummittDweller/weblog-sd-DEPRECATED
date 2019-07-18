@@ -6,6 +6,11 @@ body {
   line-height: 24px;
 }
 
+.site-rev {
+  font: 12px/16px "Avenir Next", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  line-height: 16px;
+}
+
 a[href] {
 	color: #476286;
 	text-decoration: none;
@@ -145,7 +150,7 @@ nav ul > li {
 }
 
 .micropost p > a, .post p > a {
-  text-decoration: underline; 
+  text-decoration: underline;
 }
 
 .post h2 {
