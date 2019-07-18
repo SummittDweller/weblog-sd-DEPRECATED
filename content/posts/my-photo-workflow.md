@@ -1,6 +1,6 @@
 ---
 title: "My Photos Workflow"
-date: 2019-07-17T20:14:58-07:00
+date: 2019-07-04
 location: "Toledo, Iowa"
 category: Web Publishing
 ---
