@@ -1,7 +1,8 @@
 ---
 title: "My Photos Workflow"
-date: 2019-07-04T18:02:39-07:00
+date: 2019-07-17T20:14:58-07:00
 location: "Toledo, Iowa"
+category: Web Publishing
 ---
 
 I recently returned from vacation in Norway with a few hundred photos and a handful of videos, taken mostly using my iPhone 8.  I find that the Apple Photos app does a pretty nice job of cataloging photos and videos into `Moments`.  Each `Moment` includes all the images taken in a single day, and sometimes in a particular location, if photos are taken on the same day, but a great distance apart.

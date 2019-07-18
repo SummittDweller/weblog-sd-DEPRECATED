@@ -4,7 +4,7 @@ title: Wrath of the Midnight Sun + Finland
 location: Kirkenes, rural Finnmark and Finland
 camera: iPhone 8
 weight: 20190613
-draft: true
+draft: false
 ---
 
 <figure>
