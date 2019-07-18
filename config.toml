@@ -16,7 +16,7 @@ enableEmoji = true
 SectionPagesMenu = "main"
 
 [params]
-   build = 6     # this value is auto-incremened using 'perl' in push-update.sh
+   build = 7     # this value is auto-incremened using 'perl' in push-update.sh
    RSSSections = [ "Posts", "Microposts", "Photos" ]
 
 [taxonomies]
