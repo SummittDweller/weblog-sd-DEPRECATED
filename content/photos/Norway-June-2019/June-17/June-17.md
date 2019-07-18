@@ -4,7 +4,7 @@ title: Photoset Markdown - June 17, 2019
 location: Toledo, Iowa
 camera: iPhone 8
 weight: 20190617
-draft: true
+draft: false
 ---
 
 <figure>
@@ -43,4 +43,3 @@ draft: true
   <img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/Norway-Photos-2019/Norway, June 17, 2019/IMG_0631.png" />
   <figcaption> This photo needs a caption.</figcaption>
 </figure>
- 

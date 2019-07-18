@@ -4,7 +4,7 @@ title: Photoset Markdown - June 21, 2019
 location: Toledo, Iowa
 camera: iPhone 8
 weight: 20190621
-draft: true
+draft: false
 ---
 
 <figure>
@@ -308,4 +308,3 @@ draft: true
   <img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/Norway-Photos-2019/Nesflaten, Rogaland - Øvre Kilen, June 21, 2019/IMG_1021.png" />
   <figcaption> This photo needs a caption.</figcaption>
 </figure>
- 

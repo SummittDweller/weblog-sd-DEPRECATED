@@ -4,7 +4,7 @@ title: Photoset Markdown - June 18, 2019
 location: Toledo, Iowa
 camera: iPhone 8
 weight: 20190618
-draft: true
+draft: false
 ---
 
 <figure>
@@ -263,4 +263,3 @@ draft: true
   <img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/Norway-Photos-2019/Trondheim, Sør-Trøndelag - Kjøpmannsgata, June 18, 2019/IMG_0646.png" />
   <figcaption> This photo needs a caption.</figcaption>
 </figure>
- 
