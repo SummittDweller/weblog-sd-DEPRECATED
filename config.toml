@@ -1,23 +1,27 @@
-baseURL = "https://summittdweller.com/blogs/mark"
+baseURL = "https://summittdweller.com/blogs/mark/"
 languageCode = "en-us"
 title = "Personal Blog"
 theme = "internet-weblog"
 enableEmoji = true
+pygmentsstyle = "emacs"
+Paginate = 10
+SectionPagesMenu = "main"
 
 [author]
    Handle = "SummittDweller"
    FirstName = "Mark"
    LastName = "McFate"
-   AboutPage = "/about"
+   # AboutPage = "/about"
    Location = "Toledo, Iowa"
-   FlickrID = "<Your Flickr ID>"
-
-
-SectionPagesMenu = "main"
+   FlickrID = "97761917@N02"
 
 [params]
-   build = 10     # this value is auto-incremened using 'perl' in push-update.sh
+   build = 11     # this value is auto-incremened using 'perl' in push-update.sh
+   Description = "Internet weblog of Software (Mac, iOS, Web) Developer, Josh Johnson."
+   ShowCopyright = true
+   RSSEnabled = true
    RSSSections = [ "Posts", "Microposts", "Photos" ]
+   RSSMicropostTitles = false
 
 [taxonomies]
   tag = "tags"
@@ -25,13 +29,19 @@ SectionPagesMenu = "main"
   series = "series"
 
 [[menu.main]]
-  name = "Posts"
+  name = "Microposts"
   weight = 1
+  identifier = "microposts"
+  url = "/microposts/"
+
+[[menu.main]]
+  name = "Posts"
+  weight = 2
   identifier = "posts"
   url = "/posts/"
 
 [[menu.main]]
   name = "Photos"
-  weight = 2
+  weight = 3
   identifier = "photos"
   url = "/photos/"

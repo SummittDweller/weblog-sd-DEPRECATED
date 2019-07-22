@@ -1,4 +1,4 @@
-baseURL = "https://summittdweller.com/blog/"
+baseURL = "https://summittdweller.com/blogs/mark/"
 languageCode = "en-us"
 title = "Personal Blog"
 theme = "internet-weblog"
@@ -16,7 +16,7 @@ enableEmoji = true
 SectionPagesMenu = "main"
 
 [params]
-   build = 9     # this value is auto-incremened using 'perl' in push-update.sh
+   build = 11     # this value is auto-incremened using 'perl' in push-update.sh
    RSSSections = [ "Posts", "Microposts", "Photos" ]
 
 [taxonomies]

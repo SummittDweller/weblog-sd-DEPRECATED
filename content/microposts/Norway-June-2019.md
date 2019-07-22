@@ -3,15 +3,8 @@ date: "2019-06-18T20:00:00"
 title: "Norway - June 2019"
 location: "Norway (mostly)"
 camera: "iPhone 8"
-weight: 20190601
+weight: -20190601
 ---
-
-<figure>
-  <img src="https://images.summittdweller.com/Norway-Photos-2019/M%C3%B8re%20og%20Romsdal%20-%20Norway,%20June%2018,%202019/IMG_0690-clipped.png" />
-  <figcaption>Our adventure in Norway, June 11-23, 2019</figcaption>
-</figure>
-
-<!--more-->
 
 From June 11th through the 23rd, we (that's me, Chris, her brother Mark, sister Deb, and Deb's husband, Doug) traveled to Norway.  Our rough itinerary was:
 
