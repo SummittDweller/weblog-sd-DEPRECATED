@@ -1,14 +1,15 @@
 ---
-date: 2019-06-13T00:00:00
+publishDate: 2019-06-13
+lastmod: 2019-08-02T23:26:15-05:00
 title: Wrath of the Midnight Sun + Finland
 location: Kirkenes, rural Finnmark and Finland
 camera: iPhone 8
-weight: 20190613
+weight: -20190613
 draft: false
 ---
 
 <figure>
-  <img src="https://images.summittdweller.com/Norway-Photos-2019/Kirkenes,%20Finnmark%20-%20Dr.%20Wessels%20gate,%20June%2013,%202019/IMG_0432.png" />
+  <img src="https://images.summittdweller.com/Norway-Photos-2019/june13_clipped.png" />
   <figcaption>Kirkenes and Finnmark (the region) are charming, with border crossings into Finland and Russia not far from town.</figcaption>
 </figure>
 

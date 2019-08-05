@@ -1,13 +1,14 @@
 ---
-date: "2019-06-18T20:00:00"
+publishDate: 2019-06-24
+lastmod: 2019-08-04T08:32:51-05:00
 title: "Norway - June 2019"
 location: "Norway (mostly)"
 camera: "iPhone 8"
-weight: 20190601
+weight: -20190624
 ---
 
 <figure>
-  <img src="https://images.summittdweller.com/Norway-Photos-2019/M%C3%B8re%20og%20Romsdal%20-%20Norway,%20June%2018,%202019/IMG_0690-clipped.png" />
+  <img src="https://images.summittdweller.com/Norway-Photos-2019/norway-cropped.png" />
   <figcaption>Our adventure in Norway, June 11-23, 2019</figcaption>
 </figure>
 

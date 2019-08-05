@@ -1,18 +1,24 @@
 ---
-date: 2019-06-21T00:00:00
+publishDate: 2019-06-21
+lastmod: 2019-08-02T23:26:15-05:00
 title: Photoset Markdown - June 21, 2019
 location: Toledo, Iowa
 camera: iPhone 8
-weight: 20190621
+weight: -20190621
 draft: false
 ---
+
+<figure>
+  <img src="https://images.summittdweller.com/Norway-Photos-2019/june21_clipped.png" />
+  <figcaption>This photo needs a caption.</figcaption>
+</figure>
+
+<!--more-->
 
 <figure>
   <img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/Norway-Photos-2019/Nesflaten - Rogaland, June 21, 2019/IMG_0796.png" />
   <figcaption> This photo needs a caption.</figcaption>
 </figure>
-
-<!--more-->
 
 <figure>
   <img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/Norway-Photos-2019/Nesflaten - Rogaland, June 21, 2019/IMG_0797.png" />

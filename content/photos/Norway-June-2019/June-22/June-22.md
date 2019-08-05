@@ -1,18 +1,24 @@
 ---
-date: 2019-06-22T00:00:00
-title: Photoset Markdown - June 22, 2019
+publishDate: 2019-06-22
+lastmod: 2019-08-04T08:55:55-05:00
+title: Departed Nesflaten for Røldal, Telemark, and Oslo - June 22, 2019
 location: Toledo, Iowa
 camera: iPhone 8
-weight: 20190622
+weight: -20190622
 draft: false
 ---
+
+<figure>
+  <img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/Norway-Photos-2019/june22_clipped.png" />
+  <figcaption>Another stop in Roldal, drive through Telemark, then on to Oslo for our departure.</figcaption>
+</figure>
+
+<!--more-->
 
 <figure>
   <img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/Norway-Photos-2019/Notodden, Telemark - Heddalsvegen, June 22, 2019/IMG_1080.png" />
   <figcaption> This photo needs a caption.</figcaption>
 </figure>
-
-<!--more-->
 
 <figure>
   <img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/Norway-Photos-2019/Oslo Airport - Gardermoen, Akershus, June 22, 2019/IMG_1081.png" />

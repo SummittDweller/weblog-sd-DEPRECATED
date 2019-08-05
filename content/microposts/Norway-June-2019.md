@@ -1,5 +1,6 @@
 ---
-date: "2019-06-18T20:00:00"
+publishDate: "2019-06-18"
+lastmod: 2019-08-02T23:09:43-05:00
 title: "Norway - June 2019"
 location: "Norway (mostly)"
 camera: "iPhone 8"

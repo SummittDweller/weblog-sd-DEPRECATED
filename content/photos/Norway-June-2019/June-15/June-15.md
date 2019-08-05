@@ -1,14 +1,15 @@
 ---
-date: 2019-06-15T00:00:00
+publishDate: 2019-06-15
+lastmod: 2019-08-02T23:26:15-05:00
 title: Photoset Markdown - June 15, 2019
 location: Toledo, Iowa
 camera: iPhone 8
-weight: 20190615
+weight: -20190615
 draft: false
 ---
 
 <figure>
-  <img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/Norway-Photos-2019/Rypefjord - Finnmark, June 15, 2019/IMG_0518.png" />
+  <img src="https://images-summittdweller.nyc3.digitaloceanspaces.com/Norway-Photos-2019/june15_clipped.png" />
   <figcaption> This photo needs a caption.</figcaption>
 </figure>
 
