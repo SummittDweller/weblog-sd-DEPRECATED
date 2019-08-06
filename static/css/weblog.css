@@ -32,11 +32,13 @@ blockquote {
   background-color: #F0F2F5;
   color: #999999;
   padding: 5px;
+  margin: 0;
 }
 
 blockquote p {
   font-style: italic;
   padding: 0 10px;
+  margin: 0;
 }
 
 blockquote p:last-child {
@@ -121,9 +123,11 @@ nav ul > li {
 
 .micropost {
   background-color: #F0F2F5;
-  margin: 40px auto;
+  /* margin: 40px auto; */
+  margin: 20px auto;
   padding: 10px;
   max-width: 780px;
+  border-radius: 10px;
 }
 
 .post, .page, .post-groups {

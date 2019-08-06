@@ -1,4 +1,5 @@
 baseURL = "https://summittdweller.com/blogs/mark/"
+canonifyURLs = true
 languageCode = "en-us"
 title = "Personal Blog"
 theme = "internet-weblog"
@@ -16,8 +17,8 @@ SectionPagesMenu = "main"
    FlickrID = "97761917@N02"
 
 [params]
-   build = 11     # this value is auto-incremened using 'perl' in push-update.sh
-   Description = "Internet weblog of Software (Mac, iOS, Web) Developer, Josh Johnson."
+   build = 17     # this value is auto-incremened using 'perl' in push-update.sh
+   Description = "Personal weblog of web professional, geocacher, camper, and volunteer, Mark McFate."
    ShowCopyright = true
    RSSEnabled = true
    RSSSections = [ "Posts", "Microposts", "Photos" ]
