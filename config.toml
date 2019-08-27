@@ -7,6 +7,7 @@ enableEmoji = true
 pygmentsstyle = "emacs"
 Paginate = 10
 SectionPagesMenu = "main"
+googleAnalytics = "UA-146526628-2"
 
 [author]
    Handle = "SummittDweller"
@@ -17,7 +18,7 @@ SectionPagesMenu = "main"
    FlickrID = "97761917@N02"
 
 [params]
-   build = 20     # this value is auto-incremened using 'perl' in push-update.sh
+   build = 35     # this value is auto-incremened using 'perl' in push-update.sh
    Description = "Personal weblog of web professional, geocacher, camper, and volunteer, Mark McFate."
    ShowCopyright = true
    RSSEnabled = true
