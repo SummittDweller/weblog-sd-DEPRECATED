@@ -1,6 +1,6 @@
 ---
 publishDate: 2019-08-28
-lastmod: 2019-08-28T12:05:09-05:00
+lastmod: 2019-08-28T12:06:38-05:00
 location: Toledo, Iowa
 weight: -20190828
 draft: false
