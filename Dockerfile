@@ -1,8 +1,8 @@
 FROM alpine/git
 COPY . /data
 WORKDIR /data
-RUN rm -rf themes/*
-RUN git clone https://github.com/SummittDweller/internet-weblog.git themes/internet-weblog
+#RUN rm -rf themes/*
+#RUN git clone https://github.com/SummittDweller/internet-weblog.git themes/internet-weblog
 
 ##
 
