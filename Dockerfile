@@ -1,8 +1,10 @@
 FROM alpine/git
 COPY . /data
 WORKDIR /data
-#RUN rm -rf themes/*
-#RUN git clone https://github.com/SummittDweller/internet-weblog.git themes/internet-weblog
+
+## MAM: Removing the theme work on 10-Sep-2019 since the theme is no longer a submodule (that was tripping up Travis CI)
+# RUN rm -rf themes/*
+# RUN git clone https://github.com/SummittDweller/internet-weblog.git themes/internet-weblog
 
 ##
 
