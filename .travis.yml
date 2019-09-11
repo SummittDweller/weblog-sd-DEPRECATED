@@ -21,16 +21,11 @@ install:
   - go get github.com/spf13/hugo
 script: hugo
 
-# language: node_js
-# node_js:
-# - "7"
-
 notifications:
   email:
     on_success: change # only if status change from fail to success
     on_failure: always # if there is a fail
     recipients:
-#     - narendrasoni2@gmail.com
       - mark.mcfate@icloud.com
 
 after_success:
