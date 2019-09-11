@@ -35,8 +35,8 @@ notifications:
 
 after_success:
   - docker login -u summittdweller -p $DOCKER_PASSWORD
-  - docker build --tag summittdweller/weblog-sd .
-  - docker push summittdweller/weblog-sd
+  - docker build --tag summittdweller/weblog-sd:latest .
+  - docker push summittdweller/weblog-sd:latest
 
 deploy:
   skip_cleanup: true
