@@ -29,14 +29,13 @@ notifications:
       - mark.mcfate@icloud.com
 
 after_success:
-  - docker image build -t blog-update .
-  - docker login -u summittdweller -p $DOCKER_PASSWORD
-  - docker tag blog-update summittdweller/weblog-sd:latest
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
+  - docker build --tag summittdweller/weblog-sd:latest .
   - docker push summittdweller/weblog-sd:latest
 
-#  - docker login -u summittdweller -p $DOCKER_PASSWORD
-#  - docker build --tag summittdweller/weblog-sd:latest .
-#  - docker push summittdweller/weblog-sd:latest
+  # - docker image build -t blog-update .
+  # - docker tag blog-update summittdweller/weblog-sd:latest
+  # - docker push summittdweller/weblog-sd:latest
 
 deploy:
   skip_cleanup: true
